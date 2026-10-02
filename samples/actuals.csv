@@ -1,0 +1,13 @@
+month,account,kind,budget,actual
+2026-01,Service revenue,revenue,100000,108000
+2026-01,Direct costs,expense,40000,43000
+2026-01,Payroll,expense,30000,31000
+2026-01,Overhead,expense,15000,14000
+2026-02,Service revenue,revenue,105000,99000
+2026-02,Direct costs,expense,42000,40000
+2026-02,Payroll,expense,30000,30500
+2026-02,Overhead,expense,15000,15500
+2026-03,Service revenue,revenue,110000,116000
+2026-03,Direct costs,expense,44000,45000
+2026-03,Payroll,expense,30000,30000
+2026-03,Overhead,expense,15000,14500

@@ -1,0 +1,8 @@
+{
+  "opening_cash": "75000",
+  "monthly_revenue": "110000",
+  "variable_cost_rate": "0.40",
+  "monthly_fixed_cost": "45000",
+  "months": 12,
+  "monthly_growth": {"base": "0.02", "downside": "-0.03", "upside": "0.04"}
+}
